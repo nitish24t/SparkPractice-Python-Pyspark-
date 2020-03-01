@@ -1,2 +1,2 @@
 # SparkPractice-Python-Pyspark-
-Spark Practice with python.
+Learning spark with Python.
